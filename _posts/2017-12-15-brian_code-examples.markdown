@@ -8,7 +8,7 @@ Je viens d'ajouter `code-examples` pour garder des exemples de code dans différ
 
 [https://github.com/hitweb/code-examples](https://github.com/hitweb/code-examples)
 
-Afin de comprendre les algos, concernant les tris, il est possible de consulter les vidéos suivantes :
+Afin de `comprendre les algos, concernant les tris`, il est possible de consulter les vidéos suivantes :
 
 [Bubble sort with Hungarian, folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4&list=UUIqiLefbVHsOAXDAxQJH7Xw&index=5)
 
