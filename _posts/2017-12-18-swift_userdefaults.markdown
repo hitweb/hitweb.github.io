@@ -8,7 +8,7 @@ C'est un réel plaisir de suivre les cours en ligne de `Maxime Britto sur le dé
 
 [https://www.purplegiraffe.fr/](https://www.purplegiraffe.fr/)
 
-L'utilisation du Playground, pour faire des codes simple... comme l'utilisation de l'App Playgrounds, sur iPad, permet d'apprendre à coder en s'amusant. 
+L'utilisation du Playground, pour faire des codes simples... comme l'utilisation de l'App Playgrounds, sur iPad, permet d'apprendre à coder en s'amusant. 
 
 ![My helpful screenshot]({{ "http://blog.hitweb.com/assets/iPad_Playgrounds.jpg" | absolute_url }})
 
@@ -34,5 +34,5 @@ let score = UserDefaults.standard.integer(forKey: "score")
 let cousins = UserDefaults.standard.array(forKey: "castors_juniors")
 ```
 
-[https://github.com/hitweb/code-examples/swift/](https://github.com/hitweb/code-examples/swift/)
+[https://github.com/hitweb/code-examples/tree/master/swift](https://github.com/hitweb/code-examples/tree/master/swift)
 
