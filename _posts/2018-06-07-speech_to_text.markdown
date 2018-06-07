@@ -23,7 +23,7 @@ Pronote est sympa, mais l'interface est limitée.
 
 L'idée est de récupérer le fichier son et l'utiliser avec des outils comme [Paraltype](http://gkarsay.github.io/parlatype/), [IBM Watson](https://www.ibm.com/watson/), etc...
 
-[Fichier mp3](http://blog.hitweb.com/assets/english_true_or_false.mp3)
+[english_true_or_false.mp3](http://blog.hitweb.com/assets/english_true_or_false.mp3)
 
 `L'objectif final est bien entendu de changer ses notes`\\
 ["Hack Pronote"](https://www.youtube.com/watch?v=5z6tYBib-vM)
@@ -31,7 +31,7 @@ L'idée est de récupérer le fichier son et l'utiliser avec des outils comme [P
 
 ### 2. Quelques astuces et outils
 
-Parlatype permet de facilitez les transcriptions audio (contrôle de la vitesse,
+Parlatype permet de faciliter les transcriptions audio (contrôle de la vitesse,
 navigation dans le fichier son, etc).
 
 [https://www.gnomelibre.fr/2017/06/facilitez-vos-transcriptions-audio-avec-parlatype/](https://www.gnomelibre.fr/2017/06/facilitez-vos-transcriptions-audio-avec-parlatype/)\\
