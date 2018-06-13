@@ -21,7 +21,7 @@ Ok, cela permet de travailler mon anglais et surtout de m'amuser avec elle :
 
 Pronote est sympa, mais l'interface est limitée. 
 
-L'idée est de récupérer le fichier son et l'utiliser avec des outils comme [Paraltype](http://gkarsay.github.io/parlatype/), [IBM Watson](https://www.ibm.com/watson/), etc...
+L'idée est de récupérer le fichier son et l'utiliser avec des outils comme [Parlatype](http://gkarsay.github.io/parlatype/), [IBM Watson](https://www.ibm.com/watson/), etc...
 
 [english_true_or_false.mp3](http://blog.hitweb.com/assets/english_true_or_false.mp3)
 
