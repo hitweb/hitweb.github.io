@@ -87,7 +87,7 @@ Et pour allez plus loin ;-)
 [https://github.com/watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs)
 
 
-###  Revoir avec la prof et IBM
+### 4. Revoir avec la prof et IBM
 
 Question 1, (As zebra is posted on a donkey?) entre true et false ;-)\\
 [https://en.wikipedia.org/wiki/Zebroid](https://en.wikipedia.org/wiki/Zebroid)
@@ -97,7 +97,7 @@ Question 6, (You can see is more intelligent than a sheep?)\\
 
 
 
-### Terminer le devoir
+### 5. Terminer le devoir
 
 Question 1 : The zebra is faster than a donkey.
 
